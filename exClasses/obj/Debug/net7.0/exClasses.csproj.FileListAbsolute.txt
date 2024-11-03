@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\bin\Debug\net7.0\exClasses.exe
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\bin\Debug\net7.0\exClasses.deps.json
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\bin\Debug\net7.0\exClasses.runtimeconfig.json
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\bin\Debug\net7.0\exClasses.dll
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\bin\Debug\net7.0\exClasses.pdb
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\obj\Debug\net7.0\exClasses.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\obj\Debug\net7.0\exClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\obj\Debug\net7.0\exClasses.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\obj\Debug\net7.0\exClasses.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\obj\Debug\net7.0\exClasses.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\obj\Debug\net7.0\exClasses.dll
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\obj\Debug\net7.0\refint\exClasses.dll
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\obj\Debug\net7.0\exClasses.pdb
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\obj\Debug\net7.0\exClasses.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\obj\Debug\net7.0\ref\exClasses.dll

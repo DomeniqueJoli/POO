@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\bin\Debug\net7.0\Aula-11-10.exe
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\bin\Debug\net7.0\Aula-11-10.deps.json
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\bin\Debug\net7.0\Aula-11-10.runtimeconfig.json
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\bin\Debug\net7.0\Aula-11-10.dll
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\bin\Debug\net7.0\Aula-11-10.pdb
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\obj\Debug\net7.0\Aula-11-10.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\obj\Debug\net7.0\Aula-11-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\obj\Debug\net7.0\Aula-11-10.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\obj\Debug\net7.0\Aula-11-10.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\obj\Debug\net7.0\Aula-11-10.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\obj\Debug\net7.0\Aula-11-10.dll
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\obj\Debug\net7.0\refint\Aula-11-10.dll
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\obj\Debug\net7.0\Aula-11-10.pdb
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\obj\Debug\net7.0\Aula-11-10.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Faculdade\segundo semestre\POO\exClasses\obj\Debug\net7.0\ref\Aula-11-10.dll

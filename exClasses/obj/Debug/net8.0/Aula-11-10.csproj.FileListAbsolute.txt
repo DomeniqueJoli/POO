@@ -1,0 +1,14 @@
+C:\Users\jv832\OneDrive\Documentos\AFYA São Lucas\Segundo Semestre\Programação Orientado a Objeto\Aula-11-10\bin\Debug\net8.0\Aula-11-10.exe
+C:\Users\jv832\OneDrive\Documentos\AFYA São Lucas\Segundo Semestre\Programação Orientado a Objeto\Aula-11-10\bin\Debug\net8.0\Aula-11-10.deps.json
+C:\Users\jv832\OneDrive\Documentos\AFYA São Lucas\Segundo Semestre\Programação Orientado a Objeto\Aula-11-10\bin\Debug\net8.0\Aula-11-10.runtimeconfig.json
+C:\Users\jv832\OneDrive\Documentos\AFYA São Lucas\Segundo Semestre\Programação Orientado a Objeto\Aula-11-10\bin\Debug\net8.0\Aula-11-10.dll
+C:\Users\jv832\OneDrive\Documentos\AFYA São Lucas\Segundo Semestre\Programação Orientado a Objeto\Aula-11-10\bin\Debug\net8.0\Aula-11-10.pdb
+C:\Users\jv832\OneDrive\Documentos\AFYA São Lucas\Segundo Semestre\Programação Orientado a Objeto\Aula-11-10\obj\Debug\net8.0\Aula-11-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jv832\OneDrive\Documentos\AFYA São Lucas\Segundo Semestre\Programação Orientado a Objeto\Aula-11-10\obj\Debug\net8.0\Aula-11-10.AssemblyInfoInputs.cache
+C:\Users\jv832\OneDrive\Documentos\AFYA São Lucas\Segundo Semestre\Programação Orientado a Objeto\Aula-11-10\obj\Debug\net8.0\Aula-11-10.AssemblyInfo.cs
+C:\Users\jv832\OneDrive\Documentos\AFYA São Lucas\Segundo Semestre\Programação Orientado a Objeto\Aula-11-10\obj\Debug\net8.0\Aula-11-10.csproj.CoreCompileInputs.cache
+C:\Users\jv832\OneDrive\Documentos\AFYA São Lucas\Segundo Semestre\Programação Orientado a Objeto\Aula-11-10\obj\Debug\net8.0\Aula-11-10.dll
+C:\Users\jv832\OneDrive\Documentos\AFYA São Lucas\Segundo Semestre\Programação Orientado a Objeto\Aula-11-10\obj\Debug\net8.0\refint\Aula-11-10.dll
+C:\Users\jv832\OneDrive\Documentos\AFYA São Lucas\Segundo Semestre\Programação Orientado a Objeto\Aula-11-10\obj\Debug\net8.0\Aula-11-10.pdb
+C:\Users\jv832\OneDrive\Documentos\AFYA São Lucas\Segundo Semestre\Programação Orientado a Objeto\Aula-11-10\obj\Debug\net8.0\Aula-11-10.genruntimeconfig.cache
+C:\Users\jv832\OneDrive\Documentos\AFYA São Lucas\Segundo Semestre\Programação Orientado a Objeto\Aula-11-10\obj\Debug\net8.0\ref\Aula-11-10.dll
